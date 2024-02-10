@@ -84,8 +84,6 @@ for(btn of allBtns){
 }
 
 
-
-/* working on this */
 function highScore(){
     let max=highScoreSeq[0];
     for(let i=0;i<highScoreSeq.length;i++){

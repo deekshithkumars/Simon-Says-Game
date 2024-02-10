@@ -21,7 +21,7 @@ To play the Simon Says game, follow these simple steps:
 3.Repeat the sequence by clicking on the colored buttons in the correct order.
 4.Continue repeating the sequence accurately to increase your score and challenge yourself.
 
-#Acknowledgments
+# Acknowledgments
 The Simon Says game project draws inspiration from the classic memory game of the same name. Special thanks to the developers and contributors of similar projects for their insights and contributions.
 
 For more information or inquiries, please contact deekshith717@gmail.com.

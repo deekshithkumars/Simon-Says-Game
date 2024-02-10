@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.btn-container{
+    width: 21.5rem;
+    height: 21.5rem;
+    background-color: rgba(255, 255, 255,0.2);
+    box-shadow: 5px 5px 5px rgba(15, 15, 15, 0.3);;
+    border-radius: 1rem;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    width: 110px;
+    height: 110px;
+    border-radius: 1.5rem;
+    border: 8px solid black;
+    margin: 2rem;
+    margin-left: 0.9rem;
+    margin-right: 0.6rem;
+}
+
+.red{
+    background-color: rgb(244, 124, 124);
+}
+
+.yellow{
+    background-color: rgb(251, 251, 160);
+}
+
+.green{
+    background-color: rgb(159, 250, 159);
+}
+
+.purple{
+    background-color: rgb(245, 152, 245);
+}
+.userFlash{
+    background-color: green;
+}
+.gameFlash{
+    background-color: white;
+}
+
+.gameOver{
+    background-color: red;
+}
+
+b{
+    background-color: yellow;
+}
+
+h1 {
+    font-size: 3rem;
+    color: rgb(99, 150, 251);
+    text-shadow: 2px 2px #db6ed4;
+}
